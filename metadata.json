@@ -1,0 +1,6 @@
+{
+  "name": "Customer360 AI Nexus",
+  "description": "Enterprise Customer Intelligence and Retention Operations Platform with deep RFM segmentation, XGBoost churn modeling, SHAP explainability, and interactive Geo intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
